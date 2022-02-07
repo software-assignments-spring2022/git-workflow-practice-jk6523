@@ -8,3 +8,6 @@ Since Facebook changed its name to Meta, the term "metaverse" is everywhere. The
 
 ## Comment
 Jason Lai: I also found this article interesting because the term "metaverse", which was coined by Mark Zuckerberg, has become a viral concept that everyone is talking about. It is not an exaggeration to say that as a fan who has seen the movie "Ready Player One" for several times, I was really fascinated by the virtual reality universe OASIS created by James Halliday, as there is just so much that can be done in this world. Therefore, while there are still many problems needed to be addressed by developers in building the metaverse, I really hope that one day this concept will become a reality, thus providing people a whole new world like no other.
+
+# Comment from You Xu
+This article is interesting to me as well! The concept of "mateverse" is becomming overwhelmingly popular these days, but it's potential future development is not clear yet. I like how this article gives us some insight about it.
